@@ -65,20 +65,4 @@ Dbtestprepare::Application.configure do
   # with SQLite, MySQL, and PostgreSQL)
   # config.active_record.auto_explain_threshold_in_seconds = 0.5
 
-config.action_mailer.default_url_options = { :host => "localhost:3000" }
-
-  #These settings are for the sending out email for active admin and consequently the   devise mailer
-  ActionMailer::Base.delivery_method = :smtp
-  ActionMailer::Base.perform_deliveries = true
-  ActionMailer::Base.raise_delivery_errors = true
-  ActionMailer::Base.smtp_settings = 
-  {
-
-    :address            => 'smtp.gmail.com',
-    :port               => 587,
-    :domain             => 'gmail.com', #you can also use google.com
-    :authentication     => :plain,
-    :user_name          => 'marcjohnboanas@gmail.com',
-    :password           => 'ebtmarc09'
-}
 end
