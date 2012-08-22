@@ -1,5 +1,7 @@
 Dbtestprepare::Application.routes.draw do
 
+  get "password_resets/new"
+
   resources :users do
     member do
       get :following, :followers
@@ -7,6 +9,7 @@ Dbtestprepare::Application.routes.draw do
   end
 
   resources :users
+  resources :password_resets
   resources :sessions,      only: [:new, :create, :destroy]
   resources :microposts,    only: [:create, :destroy]
   resources :relationships, only: [:create, :destroy]
