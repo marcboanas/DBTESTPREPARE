@@ -37,10 +37,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sessions_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="sessions_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/sessions_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="28" selection-start="253" selection-end="253" vertical-scroll-proportion="0.28361344">
+            <state line="9" column="28" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -49,7 +49,7 @@
       <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/users/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -67,7 +67,7 @@
       <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/sessions/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="72" selection-start="455" selection-end="455" vertical-scroll-proportion="-9.375">
+            <state line="15" column="72" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -76,7 +76,7 @@
       <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/password_resets/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="49" selection-start="249" selection-end="249" vertical-scroll-proportion="-3.75">
+            <state line="6" column="49" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -85,7 +85,7 @@
       <file leaf-file-name="edit.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/password_resets/edit.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="44" selection-start="450" selection-end="450" vertical-scroll-proportion="-8.125">
+            <state line="13" column="44" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -100,10 +100,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="password_reset.text.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="password_reset.text.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/user_mailer/password_reset.text.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="2" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.06833713">
               <folding />
             </state>
           </provider>
@@ -119,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/views/shared/_unfollow.html.erb" />
         <option value="$PROJECT_DIR$/controllers/relationships_controller.rb" />
         <option value="$PROJECT_DIR$/views/relationships/create.js" />
         <option value="$PROJECT_DIR$/views/relationships/destroy.js.erb" />
@@ -135,12 +134,13 @@
         <option value="$PROJECT_DIR$/controllers/application_controller.rb" />
         <option value="$PROJECT_DIR$/models/user.rb" />
         <option value="$PROJECT_DIR$/controllers/sessions_controller.rb" />
+        <option value="$PROJECT_DIR$/views/user_mailer/password_reset.text.erb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="70" />
-    <option name="y" value="298" />
+    <option name="x" value="66" />
+    <option name="y" value="348" />
     <option name="width" value="1152" />
     <option name="height" value="644" />
   </component>
@@ -529,14 +529,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="298" width="1152" height="644" extended-state="0" />
+    <frame x="66" y="348" width="1152" height="644" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28481013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29023507" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -606,30 +606,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/views/users/show_follow.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="39" selection-start="413" selection-end="413" vertical-scroll-proportion="-6.7083335">
-          <folding />
-        </state>
+        <state line="12" column="39" selection-start="413" selection-end="413" vertical-scroll-proportion="-6.7083335" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/users/_follow.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="9" selection-start="231" selection-end="231" vertical-scroll-proportion="-2.5">
-          <folding />
-        </state>
+        <state line="4" column="9" selection-start="231" selection-end="231" vertical-scroll-proportion="-2.5" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/users/_unfollow.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="9" selection-start="209" selection-end="209" vertical-scroll-proportion="-2.5">
-          <folding />
-        </state>
+        <state line="4" column="9" selection-start="209" selection-end="209" vertical-scroll-proportion="-2.5" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/relationships_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="3" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="20" column="3" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/relationships/create.js.erb">
@@ -641,14 +633,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/static_pages_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="4" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="15" column="4" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/password_resets/edit.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="44" selection-start="450" selection-end="450" vertical-scroll-proportion="-8.125">
+        <state line="13" column="44" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -662,35 +652,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/sessions/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="72" selection-start="455" selection-end="455" vertical-scroll-proportion="-9.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="24" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/user_mailer/password_reset.text.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="15" column="72" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/password_resets/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="49" selection-start="249" selection-end="249" vertical-scroll-proportion="-3.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/password_resets_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="5" selection-start="682" selection-end="682" vertical-scroll-proportion="0.0">
+        <state line="6" column="49" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -711,7 +680,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/sessions_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="28" selection-start="253" selection-end="253" vertical-scroll-proportion="0.28361344">
+        <state line="9" column="28" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="24" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/password_resets_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="5" selection-start="682" selection-end="682" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/user_mailer/password_reset.text.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.06833713">
           <folding />
         </state>
       </provider>
