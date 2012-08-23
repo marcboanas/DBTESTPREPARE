@@ -103,7 +103,7 @@
       <file leaf-file-name="password_reset.text.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/user_mailer/password_reset.text.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.06833713">
+            <state line="4" column="28" selection-start="134" selection-end="134" vertical-scroll-proportion="0.13667426">
               <folding />
             </state>
           </provider>
@@ -701,7 +701,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/user_mailer/password_reset.text.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.06833713">
+        <state line="4" column="28" selection-start="134" selection-end="134" vertical-scroll-proportion="0.13667426">
           <folding />
         </state>
       </provider>
